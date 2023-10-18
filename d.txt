@@ -1,1 +1,2 @@
-this is a job on git.
+this is a job in git.
+this is the cecond gob in git
